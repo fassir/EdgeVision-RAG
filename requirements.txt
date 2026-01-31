@@ -1,0 +1,11 @@
+opencv-python>=4.9.0
+ultralytics>=8.1.0
+requests
+sentence-transformers
+scikit-learn
+Pillow
+fastapi
+uvicorn
+prometheus-fastapi-instrumentator
+streamlit
+python-multipart
